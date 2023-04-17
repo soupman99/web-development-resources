@@ -413,6 +413,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.behance.net     |
 | https://tympanus.net/codrops|
 | https://landings.dev        |
+| https://www.lovelylandings.net|        |
+
 
 [⬆ back to top](#table-of-contents)
 
